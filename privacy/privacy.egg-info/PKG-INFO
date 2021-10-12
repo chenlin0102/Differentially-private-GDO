@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: privacy
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/tensorflow/privacy
+License: Apache-2.0
+Platform: UNKNOWN
+Provides-Extra: tf
+Provides-Extra: tf_gpu
+License-File: LICENSE
+
+UNKNOWN
+
